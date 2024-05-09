@@ -3,16 +3,13 @@
   Análise Exploratória de Dados da Plataforma Instacart
 </h2>
 
+---
+
 <p align="center">
   Este projeto foi desenvolvido com o objetivo de levantar dados pertinentes sobre os hábitos de compra dos clientes da plataforma Instacart. É um projeto realizado dentro do bootcamp de ciência de dados da <a href="https://tripleten.com">TripleTen Brasil</a> com intuito de desenvolver e treinar as habilidades relacionadas a manipulação de dados. </a>
 </p>
 
-
-
-   </a>
-</p>
-
-
+---
 
 ###  Confira aqui a base de dados da análise
 
@@ -35,6 +32,10 @@
 
 -  Bibliotecas: Pandas, Matplotlib;
 -  Google Colaboratory.
+
+### Pontos de melhoria (refactoring)
+
+- Criar funções para reutilização de código
 
 
 
