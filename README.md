@@ -17,7 +17,7 @@
 ###  Confira aqui a base de dados da análise
 
 <p align="center">
-  <img 
+  <img src=https://github.com/pat-weber/AED_Instacart/blob/main/drawSQL-image-export-2024-05-09.png width="800">
 
 - [Dataframe de pedidos](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/Data_Refactored_2_sprint/datasets/instacart_orders.csv);
 - [Dataframe de produtos](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/Data_Refactored_2_sprint/datasets/products.csv);
