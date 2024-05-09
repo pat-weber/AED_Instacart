@@ -16,7 +16,8 @@
 
 ###  Confira aqui a base de dados da análise
 
-<iframe width="100%" height="500px" style="box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); border-radius:15px;" allowtransparency="true" allowfullscreen="true" scrolling="no" title="Embedded DrawSQL IFrame" frameborder="0" src="https://drawsql.app/teams/patricia-weber/diagrams/instacart-database/embed"></iframe>
+<p align="center">
+  <img 
 
 - [Dataframe de pedidos](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/Data_Refactored_2_sprint/datasets/instacart_orders.csv);
 - [Dataframe de produtos](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/Data_Refactored_2_sprint/datasets/products.csv);
